@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "High-level/One-pager - Quilux data platform.md",
+                "file": "High-level/One-pager - Quilux data suite.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "One-pager - Quilux data platform"
+              "title": "One-pager - Quilux data suite"
             }
           },
           {
@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "High-level/One-pager - Quilux data platform.md",
+                "file": "Memory system/Telemetry-based memory system for Agents.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,7 +110,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "One-pager - Quilux data platform"
+              "title": "Telemetry-based memory system for Agents"
             }
           }
         ],
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "High-level/One-pager - Quilux data platform.md",
+                "file": "Memory system/Telemetry-based memory system for Agents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for One-pager - Quilux data platform"
+              "title": "Backlinks for Telemetry-based memory system for Agents"
             }
           },
           {
@@ -206,12 +206,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "High-level/One-pager - Quilux data platform.md",
+                "file": "Memory system/Telemetry-based memory system for Agents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from One-pager - Quilux data platform"
+              "title": "Outgoing links from Telemetry-based memory system for Agents"
             }
           },
           {
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "High-level/One-pager - Quilux data platform.md",
+                "file": "Memory system/Telemetry-based memory system for Agents.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of One-pager - Quilux data platform"
+              "title": "Outline of Telemetry-based memory system for Agents"
             }
           },
           {
@@ -274,11 +274,11 @@
   },
   "active": "8a738869d0a8fe42",
   "lastOpenFiles": [
+    "High-level/One-pager - Quilux data suite.md",
     "Memory system/Telemetry-based memory system for Agents.md",
     "Chats/Untitled.md",
     "Chats",
     "Use-case",
-    "High-level/One-pager - Quilux data platform.md",
     "Memory system",
     "backend/Spec.md",
     "High-level",
