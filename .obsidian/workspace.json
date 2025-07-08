@@ -40,9 +40,57 @@
               "icon": "lucide-file",
               "title": "Spec"
             }
+          },
+          {
+            "id": "29f1a3263d4f3386",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "High-level/One-pager - Quilux data platform.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "One-pager - Quilux data platform"
+            }
+          },
+          {
+            "id": "e593ae381c70f7d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory system/Telemetry-based memory system for Agents.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Telemetry-based memory system for Agents"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "backend/Spec.md",
+                "file": "Memory system/Telemetry-based memory system for Agents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +173,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Spec"
+              "title": "Backlinks for Telemetry-based memory system for Agents"
             }
           },
           {
@@ -134,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "backend/Spec.md",
+                "file": "Memory system/Telemetry-based memory system for Agents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Spec"
+              "title": "Outgoing links from Telemetry-based memory system for Agents"
             }
           },
           {
@@ -163,13 +211,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "backend/Spec.md",
+                "file": "Memory system/Telemetry-based memory system for Agents.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Spec"
+              "title": "Outline of Telemetry-based memory system for Agents"
             }
           },
           {
@@ -200,10 +248,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fae1b84d4527ee42",
+  "active": "e593ae381c70f7d2",
   "lastOpenFiles": [
-    "High-level",
+    "High-level/One-pager - Quilux data platform.md",
+    "Memory system/Telemetry-based memory system for Agents.md",
+    "Memory system",
     "backend/Spec.md",
+    "High-level",
     "backend"
   ]
 }
