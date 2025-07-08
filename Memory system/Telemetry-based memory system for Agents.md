@@ -10,4 +10,5 @@ The memory system is comprised of the following elements:
 3) Picked up from 
 
 
+https://chatgpt.com/share/686cb679-72f0-8008-ae22-1e3caf4dfef5
 

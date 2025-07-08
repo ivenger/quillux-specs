@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Memory system/Telemetry-based memory system for Agents.md",
+                "file": "Chats/Memory system.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,7 +110,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Telemetry-based memory system for Agents"
+              "title": "Memory system"
             }
           }
         ],
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory system/Telemetry-based memory system for Agents.md",
+                "file": "Chats/Memory system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Telemetry-based memory system for Agents"
+              "title": "Backlinks for Memory system"
             }
           },
           {
@@ -206,12 +206,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory system/Telemetry-based memory system for Agents.md",
+                "file": "Chats/Memory system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Telemetry-based memory system for Agents"
+              "title": "Outgoing links from Memory system"
             }
           },
           {
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory system/Telemetry-based memory system for Agents.md",
+                "file": "Chats/Memory system.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Telemetry-based memory system for Agents"
+              "title": "Outline of Memory system"
             }
           },
           {
@@ -276,7 +276,7 @@
   "lastOpenFiles": [
     "High-level/One-pager - Quilux data suite.md",
     "Memory system/Telemetry-based memory system for Agents.md",
-    "Chats/Untitled.md",
+    "Chats/Memory system.md",
     "Chats",
     "Use-case",
     "Memory system",
