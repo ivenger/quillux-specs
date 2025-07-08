@@ -93,14 +93,24 @@
             "id": "8a738869d0a8fe42",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/plugins/obsidian-excalidraw-plugin/manifest.json",
-                "bFile": ".obsidian/plugins/obsidian-excalidraw-plugin/manifest.json",
-                "aRef": ""
+                "file": "Chats/Memory system.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: manifest.json"
+              "icon": "lucide-file",
+              "title": "Memory system"
             }
           }
         ],
@@ -177,6 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Chats/Memory system.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Memory system"
             }
           },
           {
@@ -195,11 +206,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Chats/Memory system.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Memory system"
             }
           },
           {
@@ -223,12 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Chats/Memory system.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Memory system"
             }
           },
           {
@@ -262,9 +275,10 @@
   },
   "active": "8a738869d0a8fe42",
   "lastOpenFiles": [
+    "ChatGPT.md",
+    "Untitled",
     "Memory system/Telemetry-based memory system for Agents.md",
     "High-level/One-pager - Quilux data suite.md",
-    "ChatGPT.md",
     "Clippings/Obsidian Cross-Platform Tips.md",
     "Clippings",
     "Chats/Memory system.md",
