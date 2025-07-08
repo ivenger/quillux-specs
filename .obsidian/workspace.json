@@ -93,24 +93,14 @@
             "id": "8a738869d0a8fe42",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Memory system/Telemetry-based memory system for Agents.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": ".obsidian/plugins/obsidian-excalidraw-plugin/manifest.json",
+                "bFile": ".obsidian/plugins/obsidian-excalidraw-plugin/manifest.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Telemetry-based memory system for Agents"
+              "icon": "diff",
+              "title": "Diff: manifest.json"
             }
           }
         ],
@@ -187,7 +177,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Memory system/Telemetry-based memory system for Agents.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +186,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Telemetry-based memory system for Agents"
+              "title": "Backlinks"
             }
           },
           {
@@ -206,12 +195,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Memory system/Telemetry-based memory system for Agents.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Telemetry-based memory system for Agents"
+              "title": "Outgoing links"
             }
           },
           {
@@ -235,13 +223,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Memory system/Telemetry-based memory system for Agents.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Telemetry-based memory system for Agents"
+              "title": "Outline"
             }
           },
           {
@@ -269,13 +256,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "8a738869d0a8fe42",
   "lastOpenFiles": [
-    "High-level/One-pager - Quilux data suite.md",
     "Memory system/Telemetry-based memory system for Agents.md",
+    "High-level/One-pager - Quilux data suite.md",
     "ChatGPT.md",
     "Clippings/Obsidian Cross-Platform Tips.md",
     "Clippings",
