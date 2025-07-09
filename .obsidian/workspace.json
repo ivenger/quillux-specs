@@ -112,9 +112,57 @@
               "icon": "lucide-file",
               "title": "One-pager - Quilux data suite"
             }
+          },
+          {
+            "id": "e6565e6c702bb8d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "High-level/Epics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Epics"
+            }
+          },
+          {
+            "id": "f1d6b4dfa6b728d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Epics/E01 - Core Semantic Agent Framework/High-level Epic 01.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "High-level Epic 01"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -253,9 +301,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "90a4ce717b5fbd48",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -273,14 +331,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8a738869d0a8fe42",
+  "active": "f1d6b4dfa6b728d0",
   "lastOpenFiles": [
-    "backend/Spec.md",
+    "High-level/Epics.md",
+    "Epics/E01 - Core Semantic Agent Framework/High-level Epic 01.md",
+    "Epics/E01 - Core Semantic Agent Framework",
+    "Epics",
     "High-level/One-pager - Quilux data suite.md",
+    "backend/Spec.md",
     "Memory system/Memory system - competitors.md",
     "Memory system/Telemetry-based memory system for Agents.md",
     "ChatGPT.md",
-    "Untitled",
     "Clippings/Obsidian Cross-Platform Tips.md",
     "Clippings",
     "Chats",

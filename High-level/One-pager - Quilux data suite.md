@@ -32,10 +32,10 @@ A **Quillux Semantic Agent** is a self-contained micro-service that:
 4. Calls an **LLM** to combine schema *and* documentation-derived terms to propose ontology mappings and enriched descriptions.  
 5. In cases when there is not enough information confirms details with human and actively interviews a human contacts (experts) to uncover and capture tacit knowledge.  
 6. Checks the mapping and description with human in the loop.  
-7. Exposes via MCP:  
+7. Exposes via  (Model context protocol):  
    * Raw schema, metadata and enrichments  
    * Suggested and accepted semantic mappings  
-8. Creates and broadcasts an A2A agent card that includes the relevant schema and access details.  
+8.  Creates and broadcasts an A2A(agent to agent protocol) agent card that includes the relevant schema and access details.  
 9. Registers with Agent hub (on creation)  
 10. Maintains observability and health metrics via API  
 11. Transmits observability to Agent hub
