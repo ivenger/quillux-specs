@@ -143,7 +143,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "High-level/One-pager - Quilux data suite.md",
+                "file": "Epics/E01 - Core Semantic Agent Framework/High-level Epic 01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -158,7 +158,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "One-pager - Quilux data suite"
+              "title": "High-level Epic 01"
             }
           }
         ],
@@ -333,9 +333,9 @@
   },
   "active": "f1d6b4dfa6b728d0",
   "lastOpenFiles": [
-    "Epics/E01 - Core Semantic Agent Framework/High-level Epic 01.md",
-    "High-level/One-pager - Quilux data suite.md",
     "High-level/Epics.md",
+    "High-level/One-pager - Quilux data suite.md",
+    "Epics/E01 - Core Semantic Agent Framework/High-level Epic 01.md",
     "Epics/E01 - Core Semantic Agent Framework/E01 - Features.md",
     "Epics/Untitled",
     "Epics/E01 - Core Semantic Agent Framework",
