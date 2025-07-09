@@ -95,7 +95,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chats/Memory system - competitors.md",
+                "file": "High-level/One-pager - Quilux data suite.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -110,7 +110,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Memory system - competitors"
+              "title": "One-pager - Quilux data suite"
             }
           }
         ],
@@ -187,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chats/Memory system - competitors.md",
+                "file": "High-level/One-pager - Quilux data suite.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Memory system - competitors"
+              "title": "Backlinks for One-pager - Quilux data suite"
             }
           },
           {
@@ -206,12 +206,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chats/Memory system - competitors.md",
+                "file": "High-level/One-pager - Quilux data suite.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Memory system - competitors"
+              "title": "Outgoing links from One-pager - Quilux data suite"
             }
           },
           {
@@ -235,13 +235,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chats/Memory system - competitors.md",
+                "file": "High-level/One-pager - Quilux data suite.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Memory system - competitors"
+              "title": "Outline of One-pager - Quilux data suite"
             }
           },
           {
@@ -275,8 +275,8 @@
   },
   "active": "8a738869d0a8fe42",
   "lastOpenFiles": [
-    "ChatGPT.md",
     "Chats/Memory system - competitors.md",
+    "ChatGPT.md",
     "Untitled",
     "Memory system/Telemetry-based memory system for Agents.md",
     "High-level/One-pager - Quilux data suite.md",
