@@ -133,7 +133,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -275,17 +275,17 @@
   },
   "active": "8a738869d0a8fe42",
   "lastOpenFiles": [
-    "Chats/Memory system - competitors.md",
+    "backend/Spec.md",
+    "High-level/One-pager - Quilux data suite.md",
+    "Memory system/Memory system - competitors.md",
+    "Memory system/Telemetry-based memory system for Agents.md",
     "ChatGPT.md",
     "Untitled",
-    "Memory system/Telemetry-based memory system for Agents.md",
-    "High-level/One-pager - Quilux data suite.md",
     "Clippings/Obsidian Cross-Platform Tips.md",
     "Clippings",
     "Chats",
     "Use-case",
     "Memory system",
-    "backend/Spec.md",
     "High-level",
     "backend"
   ]
